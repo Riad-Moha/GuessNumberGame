@@ -1,0 +1,35 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  color: #fff;
+}
+
+.row {
+  height: 100vh;
+}
+
+.perdu-border {
+  border: 2px solid red;
+}
+.win-border {
+  border: 2px solid rgb(109, 202, 109);
+}
+.perdu-color {
+  color: red;
+}
+.win-color {
+  color: rgb(109, 202, 109);
+}
+.msg {
+  height: 20px;
+}
+
+body {
+  background-image: url("./numbers.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.card {
+  background-color: #666;
+  
+}
